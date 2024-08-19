@@ -26,7 +26,7 @@
 📊 **GitHub Stats:**
 ![Aadii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aadii-shah&theme=gruvbox&hide_border=true&area=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Aadii-shah)
 
 ---
 
