@@ -1,33 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Aadii Shah!
 
-<!--
-**manandhar01/manandhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on various Flutter projects with a focus on applying SOLID principles, design patterns, and building robust app system architectures.
+- 🌱 I’m deepening my knowledge in advanced state management, dependency injection, and architectural patterns like BLoC and MVVM.
+- 👯 I’m looking to collaborate on open-source projects that emphasize clean code practices, modularity, and maintainable system design.
+- 📫 How to reach me: [aadityashah0512@gmail.com]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!-- <h2 align="center">Github Stats 📈:</h2> -->
- 
- <div align="center">
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manandhar01&show_icons=true&count_private=true&theme=dracula" width="400"> -->
-<!--   <img align="center" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=manandhar01&show_icons=true&theme=dracula&hide_border=true" width="400"> -->
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manandhar01&theme=dracula" width="400"> -->
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true" width="800">
-<!--    <hr> -->
-<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manandhar01&layout=compact&theme=dracula" width="450"> -->
-<!-- <img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=manandhar01&show_icons=true&hide_border=true&theme=gruvbox&layout=compact" width="600"> -->
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=manandhar01" width="400"> -->
-  <hr>
-   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadii-shah&theme=gruvbox" width="800">
-    <hr>
-<!--    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=manandhar01&area=true&hide_border=true&theme=dracula"> -->
-<!--    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=manandhar01&theme=dracula&area=true&hide_border=true"> -->
- </div>
+🏆 **GitHub Profile Trophy:**
+![trophy](https://github-profile-trophy.vercel.app/?username=Aadii-shah&theme=gruvbox&no-frame=true&column=4)
+
+---
+
+🌟 **Most Used Languages:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadii-shah&layout=compact&theme=gruvbox)
+
+---
+
+🚀 **Featured Projects:**
+- [Finnoto](https://github.com/Aadii-shah/project-name)
+- [Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-a)
+
+---
+
+📊 **GitHub Stats:**
+![Aadii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aadii-shah&theme=gruvbox&hide_border=true&area=true)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Aadii-shah&color=blue)
