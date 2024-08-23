@@ -18,8 +18,8 @@
 ---
 
 🚀 **Featured Projects:**
-- [Finnoto](https://github.com/Aadii-shah/project-name)
-- [Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-a)
+- [Finnoto](https://github.com/finnoto/finnoto-app-production)
+- [Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-app)
 
 ---
 
