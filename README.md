@@ -40,10 +40,6 @@
 
 ---
 
-### 📈 **Contribution Graph:**
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aadii-shah&theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
