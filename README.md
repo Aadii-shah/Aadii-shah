@@ -23,7 +23,7 @@
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true" alt="Aadii's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true" alt="Aadii's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true" alt="Aadii's GitHub Streak" />
 </p>
 
