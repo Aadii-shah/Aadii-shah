@@ -22,10 +22,25 @@
 ---
 
 ### 📊 **GitHub Stats:**
-<p align="center">
+ <div align="center">
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manandhar01&show_icons=true&count_private=true&theme=dracula" width="400"> -->
+<!--   <img align="center" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=manandhar01&show_icons=true&theme=dracula&hide_border=true" width="400"> -->
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manandhar01&theme=dracula" width="400"> -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true" width="800">
+<!--    <hr> -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manandhar01&layout=compact&theme=dracula" width="450"> -->
+<!-- <img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=manandhar01&show_icons=true&hide_border=true&theme=gruvbox&layout=compact" width="600"> -->
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=manandhar01" width="400"> -->
+  <hr>
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadii-shah&theme=gruvbox" width="800">
+    <hr>
+<!--    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=manandhar01&area=true&hide_border=true&theme=dracula"> -->
+<!--    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=manandhar01&theme=dracula&area=true&hide_border=true"> -->
+ </div>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true" alt="Aadii's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true" alt="Aadii's GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
