@@ -1,4 +1,9 @@
 ## Hi there 👋, I'm Aadii Shah!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Aaddi+Shah;A.K.A+Bugless+Coder...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 - 🔭 I’m currently working on various Flutter projects with a focus on applying **SOLID principles**, **design patterns**, and building **robust app system architectures**.
 - 🌱 I’m deepening my knowledge in **advanced state management**, **dependency injection**, and architectural patterns like **BLoC** and **MVVM**.
