@@ -5,33 +5,28 @@
   </a>
 </h1>
 
-
 - 🔭 I’m currently working on various Flutter projects with a focus on applying **SOLID principles**, **design patterns**, and building **robust app system architectures**.
 - 🌱 I’m deepening my knowledge in **advanced state management**, **dependency injection**, and architectural patterns like **BLoC** and **MVVM**.
 - 👯 I’m looking to collaborate on **open-source projects** that emphasize **clean code practices**, **modularity**, and **maintainable system design**.
 - 📫 How to reach me: [aadityashah0512@gmail.com](mailto:aadityashah0512@gmail.com)
 
 
-### 🏆 **GitHub Profile Trophy:**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadii-shah&theme=gruvbox&no-frame=true&column=4" alt="GitHub Profile Trophy" />
-</p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aadii-shah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadii-shah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌟 **Most Used Languages:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadii-shah&layout=compact&theme=gruvbox" alt="Most Used Languages" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aadii-shah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 📊 **GitHub Stats:**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadii-shah&theme=gruvbox&hide_border=true" width="800" alt="Aadii's GitHub Streak" />
-  <hr>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadii-shah&theme=gruvbox" width="800" alt="Profile Details Summary" />
-  <hr>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🚀 **Featured Projects:**
-- [🌟 Finnoto](https://github.com/finnoto/finnoto-app-production): A comprehensive app for financial planning and management.
-- [🎟️ Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-app): A user-friendly ticket booking app with seamless user experience.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aadii-shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Aadii-shah&color=blue)
+---
+[![](https://visitcount.itsvg.in/api?id=Aadii-shah&icon=0&color=0)](https://visitcount.itsvg.in)
+
