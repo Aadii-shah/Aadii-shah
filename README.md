@@ -24,11 +24,6 @@
   <hr>
 </div>
 
-### 📈 **Contribution Graph:**
-<div align="center">
-  <img src="https://github.com/Aadii-shah/Aadii-shah/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
 ### 🚀 **Featured Projects:**
 - [🌟 Finnoto](https://github.com/finnoto/finnoto-app-production): A comprehensive app for financial planning and management.
 - [🎟️ Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-app): A user-friendly ticket booking app with seamless user experience.
