@@ -44,6 +44,12 @@
 
 ---
 
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
 ### 🚀 **Featured Projects:**
 - [🌟 Finnoto](https://github.com/finnoto/finnoto-app-production): A comprehensive app for financial planning and management.
 - [🎟️ Ticket Booking](https://github.com/Aadii-shah/my-ticket-booking-app): A user-friendly ticket booking app with seamless user experience.
