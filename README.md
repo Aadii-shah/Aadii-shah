@@ -36,6 +36,11 @@
     <hr>
 <!--    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=manandhar01&area=true&hide_border=true&theme=dracula"> -->
 <!--    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=manandhar01&theme=dracula&area=true&hide_border=true"> -->
+
+   ## 📈 Graph
+<p align="center">
+   <img src="https://github.com/Aadii-shah/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
  </div>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aadii-shah&show_icons=true&theme=gruvbox&hide_border=true" alt="Aadii's GitHub stats" />
@@ -44,10 +49,7 @@
 
 ---
 
-## 📈 Graph
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 
 ### 🚀 **Featured Projects:**
