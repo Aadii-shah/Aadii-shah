@@ -26,7 +26,7 @@
 
 ### 📈 **Contribution Graph:**
 <div align="center">
-  <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/Aadii-shah/Aadii-shah/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ### 🚀 **Featured Projects:**
